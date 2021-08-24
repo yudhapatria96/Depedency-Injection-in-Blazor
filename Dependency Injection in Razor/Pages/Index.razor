@@ -1,0 +1,32 @@
+﻿@page "/"
+@implements IDisposable
+@inject ICustomerService customerService
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<br />
+<text>Guid: </text>@customerService.Uid
+<br/>
+<br />
+@if (customer != null)
+{
+    <text>Customer Info:</text>@customer.Name
+
+}
+
+@code {
+
+    private Customer customer;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        customer = customerService.GetCustomerById(2);
+    }
+
+    public void Dispose()
+        {
+
+        }
+}

@@ -1,0 +1,58 @@
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\bin\Debug\net5.0\appsettings.json
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\bin\Debug\net5.0\Dependency Injection in Razor.StaticWebAssets.xml
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\bin\Debug\net5.0\Dependency Injection in Razor.exe
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\bin\Debug\net5.0\Dependency Injection in Razor.deps.json
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\bin\Debug\net5.0\Dependency Injection in Razor.runtimeconfig.json
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\bin\Debug\net5.0\Dependency Injection in Razor.runtimeconfig.dev.json
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\bin\Debug\net5.0\Dependency Injection in Razor.dll
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\bin\Debug\net5.0\ref\Dependency Injection in Razor.dll
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\bin\Debug\net5.0\Dependency Injection in Razor.pdb
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\bin\Debug\net5.0\Dependency Injection in Razor.Views.dll
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\bin\Debug\net5.0\Dependency Injection in Razor.Views.pdb
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.csproj.AssemblyReference.cache
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.AssemblyInfoInputs.cache
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.AssemblyInfo.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.csproj.CoreCompileInputs.cache
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.RazorComponent.input.cache
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.RazorComponent.output.cache
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\RazorDeclaration\Dependency Injection in Razor.dll
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.TagHelpers.input.cache
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.TagHelpers.output.cache
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.RazorCoreGenerate.cache
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.RazorAssemblyInfo.cache
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.RazorAssemblyInfo.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\staticwebassets\Dependency Injection in Razor.StaticWebAssets.Manifest.cache
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\staticwebassets\Dependency Injection in Razor.StaticWebAssets.xml
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\scopedcss\bundle\Dependency Injection in Razor.styles.css
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\scopedcss\projectbundle\Dependency Injection in Razor.bundle.scp.css
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.RazorTargetAssemblyInfo.cache
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.RazorTargetAssemblyInfo.cs
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.Views.pdb
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.dll
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\ref\Dependency Injection in Razor.dll
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.pdb
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.genruntimeconfig.cache
+C:\Users\yudha\source\repos\Dependency Injection in Razor\Dependency Injection in Razor\obj\Debug\net5.0\Dependency Injection in Razor.csproj.CopyComplete
