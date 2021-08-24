@@ -2,7 +2,7 @@
 
 If you using Blazor WebAssembly App, change Lifetime Management in program.cs like this
 
-  public class Program
+    public class Program
     {
         public static async Task Main(string[] args)
         {
